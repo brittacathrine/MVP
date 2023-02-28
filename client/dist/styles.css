@@ -1,0 +1,8 @@
+body {
+  background: #a8ccc9;
+  /* background-image: url("https://images.unsplash.com/photo-1555412654-72a95a495858?ixlib=rb-4.0.3&dl=akira-hojo-ZxGdri2EWzk-unsplash.jpg&q=80&fm=jpg&crop=entropy&cs=tinysrgb"); */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
